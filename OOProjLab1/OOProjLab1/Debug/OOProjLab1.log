@@ -1,0 +1,7 @@
+﻿  Igra.cpp
+C:\Users\jakov\source\repos\OOProjLab1\OOProjLab1\Igra.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Livada.cpp
+  PoljeTrava.cpp
+  Source.cpp
+  Generating Code...
+  OOProjLab1.vcxproj -> C:\Users\jakov\source\repos\OOProjLab1\Debug\OOProjLab1.exe
